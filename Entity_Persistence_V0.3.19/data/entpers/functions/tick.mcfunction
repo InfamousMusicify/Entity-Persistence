@@ -1,11 +1,13 @@
 # entpers:tick
 schedule function entpers:tick 1t
+execute as @a[scores={entpres.throw=1..}] run function entpers:lockon
 #Items
 execute at @e[type=minecraft:item] run data merge entity @e[limit=1,type=minecraft:item,distance=..0] {Age:-32768s,Invulnerable:1b}
 # arrows
 execute at @e[type=minecraft:arrow] run data merge entity @e[limit=1,type=minecraft:arrow,distance=..0] {life:1s,Invulnerable:1b,pickup:1b}
 # tridents
-execute at @e[type=minecraft:trident] run data merge entity @e[limit=1,type=minecraft:trident,distance=..0] {life:1s,Invulnerable:1b,pickup:1b}
+execute at @e[type=minecraft:trident,tag=entpers] run data merge entity @e[limit=1,type=minecraft:trident,distance=..0] {life:1s,Invulnerable:1b}
+# execute at @e[type=minecraft:trident] run data merge entity @e[limit=1,type=minecraft:trident,distance=..0] {life:1s,Invulnerable:1b,pickup:1b}
 # exp orbs
 execute at @e[type=minecraft:experience_orb] run data merge entity @e[limit=1,type=minecraft:experience_orb,distance=..0] {Invulnerable:1b}
 #execute at @e[type=minecraft:experience_orb] run data merge entity @e[limit=1,type=minecraft:experience_orb,distance=..0] {Age:-32768s,Invulnerable:1b}
