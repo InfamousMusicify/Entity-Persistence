@@ -1,37 +1,33 @@
-# [Epsilon]() 
-### Source Code Repo  
-#### Minecraft: Java Edition - Data Pack
+# [Entity Persistence]()   
+#### Minecraft: Java Edition - Data Pack 
 
-### *What the fuck does this pack do?*  
+### *Dropped Items Never Despawn!*    
 
-__Warnings or extra info__    
-placeholder ___Edition___.  pc.  
+__Non-Mob Items will Never despawn!__     
+Arrows shot from skeletons can be picked up! Tridents you throw never disapear!   
+Experience orbs and items dont burn or blow up!     
+Exp orbs do despawn sadly.  Rotten flesh, bones, bows and arrows(item form) will be purged every 30 minutes(per item timer, not a mass wipe).    
 
-*"Megapode"*
+*"Recomended for use on smaller servers."*    
 
-~~~
-Commands:   
-     /trigger epsilon - sends the player a
+## [🔗Download🔗](https://github.com/InfamousMusicify/Entity-Persistence/archive/refs/heads/master.zip)     
 
-OPs can use theese commands:  
-     /scoreboard players set @p rmt_logout 1 - to trigger a message for the closest player, or 
-~~~
-More info:  sdasdfsdf    
+__[🔗 How to Install a Datapack](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/)__  
 
-## [🔗Download🔗](https://github.com/InfamousMusicify/Epsilon/archive/refs/heads/master.zip)
+Credit:    
+     Thank you to [KubosKube](https://www.twitch.tv/kuboskube) for making this idea 6 years ago and showing it to me recently!   
+     I asked him if i could use it as the basis for a few ideas and packs.    
+     Made this for him as a true to form modern recreation of his original command block structure.     
+     Amazing stuff kubos! keep it up!   
+     [Original Idea and video](https://www.youtube.com/watch?v=G2gSPPE7odY)   
 
-__[🔗 How to Install a Datapack](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/)__
+### [Donations appreciated:🔗](https://www.patreon.com/InfamousMusicify)    
+__All of my projects take an inordinate amount of time to upkeep/create.    
+I use my free time to make them. Any support would be much appreciated!    
+If you enjoy these packs and want to see more like them and see them maintained, send me some love!__    
 
-Esoteric excess pack info:
-  sdfsdfsdf
-
-
-### [Donations appreciated:🔗](https://www.patreon.com/InfamousMusicify)   
-__All of my projects take an inordinate amount of time to upkeep/create.  
-I use my free time to make them. Any support would be much appreciated!  
-If you enjoy these packs and want to see more like them and see them maintained, send me some love!__   
-
-Closing Comments: asasfdfgdg
+This pack will cause lag if your pc/server is somewhat of a potato.  or if you have a very busy or big server.    
+future updates will include admin commands to kill excess items.   
 
 Cheers   
 -Infamous   
