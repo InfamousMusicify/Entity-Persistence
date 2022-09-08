@@ -4,7 +4,7 @@
             "item": "minecraft:sunflower"
         },
         "title": {
-            "text": "Entity Persistance     ",
+            "text": "Entity Persistence     ",
             "color": "white",
             "bold": false,
             "italic": false
@@ -19,7 +19,7 @@
         "announce_to_chat": false,
         "frame": "goal"
     },
-    "parent": "inhauspacks:death",
+    "parent": "inhauspacks:kubos",
     "criteria": {
         "tick": {
             "trigger": "minecraft:tick"
