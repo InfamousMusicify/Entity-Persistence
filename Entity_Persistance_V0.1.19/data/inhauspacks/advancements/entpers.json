@@ -1,16 +1,16 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:netherite_helmet"
+            "item": "minecraft:sunflower"
         },
         "title": {
-            "text": "Epsilon - Source Code Pack     ",
+            "text": "Entity Persistance     ",
             "color": "white",
             "bold": false,
             "italic": false
         },
         "description": {
-            "text": "Source Code Exampole Pack for refernece/ template.",
+            "text": "Items never despawn! \nMind your litter!",
             "color": "green",
             "bold": false,
             "italic": false

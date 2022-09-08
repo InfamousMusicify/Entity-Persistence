@@ -1,0 +1,24 @@
+{
+    "display": {
+        "title": "Items will never despawn!",
+        "description": ["",
+        {"text":"Items dropped will never despawn","color":"gold"},{"text":"\n"},
+        {"text":"Arrows and tridents never despawn","color":"green"},{"text":"\n"},
+        {"text":"Exp orbs, Rotten Flesh, Bones and Bows will despawn after 30 minutes.","color":"green"},{"text":"\n"},
+        {"text":"You can pickup arrows fired from skeletons.","color":"light_purple"},{"text":"\n"},
+        {"text":"Exp orbs may glitch out after 5 minutes or so","color":"yellow"},{"text":"\n"},
+        {"text":"Pick up your trash!","color":"red"}
+    ],
+    "icon": {
+        "item": "minecraft:bedrock"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+    },
+    "parent": "inhauspacks:entpers",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
