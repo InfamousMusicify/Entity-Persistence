@@ -1,0 +1,22 @@
+{
+    "display": {
+        "title": "Items will never despawn!",
+        "description": ["",
+        {"text":"Items, Arrows and Thrown Tridents never despawn! Exp orbs, arrows, tridents and items are fire/blast proof!","color":"green"},{"text":"\n"},
+        {"text":"Rotten Flesh, Bones, Bows and Arrows(item) will despawn after 30 minutes.","color":"gold"},{"text":"\n"},
+        {"text":"You can pickup arrows fired from skeletons.","color":"yellow"},{"text":"\n"},
+        {"text":"Pick up your trash!","color":"red"}
+    ],
+    "icon": {
+        "item": "minecraft:bedrock"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+    },
+    "parent": "inhauspacks:entpers",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
