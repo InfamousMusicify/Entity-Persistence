@@ -9,6 +9,8 @@ Experience orbs and items dont burn or blow up!
 Exp orbs do despawn sadly.  Rotten flesh, bones, bows and arrows(item form) will be purged every 30 minutes(per item timer, not a mass wipe).    
 
 *"Recomended for use on smaller servers."*    
+If you have mob farms or automated farms, they may cause lag with this datapack.    
+Make sure the collection rates are as close to 100% as possible.    
 
 ## [🔗Download🔗](https://github.com/InfamousMusicify/Entity-Persistence/archive/refs/heads/master.zip)     
 
